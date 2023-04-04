@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680625639 source:c:\users\lyiar\documents\cpp projects\temperature converter\main.cpp
+	<iostream>
+	<cctype>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
